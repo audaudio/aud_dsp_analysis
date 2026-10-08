@@ -1,6 +1,6 @@
 name: aud_dsp_analysis
 description: "Analysis nodes of the Audanika Audio Engine: amplitude, FFT and pitch taps, meters, scope and spectrum buffers"
-version: 0.0.1
+version: 0.0.2
 publish_to: none
 homepage: https://github.com/audaudio/aud_dsp_analysis
 repository: https://github.com/audaudio/aud_dsp_analysis
