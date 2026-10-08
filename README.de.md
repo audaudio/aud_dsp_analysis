@@ -2,4 +2,4 @@
 
 Analysis nodes of the Audanika Audio Engine: amplitude, FFT and pitch taps, meters, scope and spectrum buffers.
 
-Part of the Audanika Audio Engine; planned in [aud_audio_pm](https://github.com/audaudio/aud_audio_pm).
+Teil der Audanika Audio Engine; geplant in [aud_audio_pm](https://github.com/audaudio/aud_audio_pm).
