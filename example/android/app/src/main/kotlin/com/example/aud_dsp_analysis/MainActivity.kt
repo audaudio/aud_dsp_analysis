@@ -1,4 +1,4 @@
-package com.audanika.aud_dsp_analysis
+package com.example.aud_dsp_analysis
 
 import io.flutter.embedding.android.FlutterActivity
 
