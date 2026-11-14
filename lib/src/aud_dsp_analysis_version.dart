@@ -9,4 +9,4 @@
 // coverage:ignore-file
 
 /// The version of the `aud_dsp_analysis` package.
-const String audDspAnalysisVersion = '0.1.1';
+const String audDspAnalysisVersion = '1.0.0';
